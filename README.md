@@ -1,4 +1,4 @@
-GLSC-Net: A Two-Stage Global-Local Semantic Calibration Network
+GLSC-Net: A Two-Stage Global-Local Semantic Calibration Network for Medical Image Segmentation
 
 Notice: The full source code, pre-trained weights, and datasets will be publicly released upon the formal publication of the paper. We are currently organizing the code for better readability and reproducibility.
 
